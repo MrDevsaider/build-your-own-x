@@ -97,6 +97,7 @@
 * [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+* [**JavaScript/Python/Java**: Construye tu propio bot en Discord en cualquier librería e idioma](https://scripthubteam.github.io/docs) [spanish]
 
 #### Build your own `Database`
 
